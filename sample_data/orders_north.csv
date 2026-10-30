@@ -1,0 +1,10 @@
+OrderID,City,Items,TotalEUR,Status
+1001,Valletta,2,24.50,Delivered
+1002,Sliema,1,13.00,Pending
+1003,Most a,4,51.20,Delivered
+1004,Birkirkara,3,,Pending
+1005,Valletta,1,9.99,Delivered
+1005,Valletta,1,9.99,Delivered
+1006,Rabat,,18.50,Cancelled
+1007,Sliema,5,73.00,Delivered
+1008,Valletta,2,26.10,Delivered

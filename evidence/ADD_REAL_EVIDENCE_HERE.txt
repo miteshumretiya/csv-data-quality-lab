@@ -1,0 +1,2 @@
+Save the student's OWN screenshots here after running the application, tests, benchmark, Git commands and Windows EXE.
+No actual Windows screenshots are included yet.

@@ -1,0 +1,8 @@
+OrderID,City,Items,TotalEUR,Status
+2001,Marsaskala,1,7.90,Delivered
+2002,Zurrieq,3,32.40,Pending
+2003,Birzebbuga,2,22.80,Delivered
+2004,Mqabba,1,11.20,Delivered
+2005,Marsaxlokk,,14.50,Pending
+2006,Zurrieq,3,31.00,Delivered
+2007,Marsaskala,2,20.00,Cancelled
